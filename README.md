@@ -8,9 +8,9 @@ This is my [IA 340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&c
 
 #### Lab Work
 
-1. Lab 1
-2. Lab 2
-3. Lab 3
+- Lab 1
+- Lab 2
+- Lab 3
 
 #### Projects
 
