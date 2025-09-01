@@ -10,7 +10,7 @@ IA 340 is a necessary technical course within the [Intelligence Analysis](https:
 
 #### Lab Work
 
-- Lab 1
+- [Lab 1](https://github.com/clark4jw/IA-340-Fall2025/blob/main/lab1.ipynb)
 - Lab 2
 - Lab 3
 
